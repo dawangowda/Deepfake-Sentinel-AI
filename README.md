@@ -10,9 +10,12 @@ This repository serves as Module 1 (Spatial Detector) of a multi-modal liveness 
 
 If you find this work useful in your research, please consider citing our published paper:
 
-[Title of Your Published Paper] > [Author Names], [Journal/Conference Name], [Year].
+[DEEPFAKE SECURITY SUITE: A DEEP LEARNING-BASED SYSTEM 
+FOR REAL-TIME DEEPFAKE DETECTION ] > [Dr. Ramya BN1, Ankitha G Kulkarni2, Dawan N Gowda3, J Manu4 ], [INTERNATIONAL JOURNAL OF PROGRESSIVE 
+RESEARCH IN ENGINEERING MANAGEMENT 
+AND SCIENCE (IJPREMS) ], [2025]
 
-[DOI Link or URL to Paper]
+(https://www.ijprems.com/ijprems-paper/deepfake-security-suite-a-deep-learning-based-system-for-real-time-deepfake-detection)
 
 🚀 Key Features
 
